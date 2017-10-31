@@ -1,0 +1,13 @@
+Package: rprojrootTester
+Type: Package
+Title: Throws Error With Testthat and Rprojroot
+Version: 0.1.0
+Author: person("Brian", "Barkley", email = "BarkleyBG@unc.edu",
+    role = c("aut", "cre")) 
+Description: This likes to throw errors. It's a MWE.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat,
+    rprojroot,
